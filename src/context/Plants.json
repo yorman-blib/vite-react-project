@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "name": "grape",
+      "price": 65.00,
+      "img": "https://img.freepik.com/fotos-premium/racimo-uvas-frescas-sobre-fondo-aislado_960070-657.jpg",
+      "description": "It is a sweet-tasting fruit, has multiple nutritional properties and great antioxidant power",
+      "type": "fruit"
+    },
+    {
+      "id": 2,
+      "name": "apple",
+      "price": 80.00,
+      "img": "https://s3.amazonaws.com/grocery-project/default_product_images/fuji_apples.jpg",
+      "description": "A classic fruit, sweet and full of fiber.",
+      "type": "fruit"
+    },
+    {
+      "id": 3,
+      "name": "kiwi",
+      "price": 50.00,
+      "img": "https://img.freepik.com/premium-photo/refreshing-kiwi-fruit-splash-white-background_899449-450857.jpg",
+      "description": "Tropical, rich in Vitamin C.",
+      "type": "fruit"
+    },
+    {
+      "id": 4,
+      "name": "strawberry",
+      "price": 70.00,
+      "img": "https://img.freepik.com/premium-psd/red-strawberry-vector-hand-drawn-painted-icon-image_893496-128.jpg",
+      "description": "A delicious fruit that includes Vitamin C, phenolic compounds and antioxidants.",
+      "type": "fruit"
+    },
+    {
+      "id": 5,
+      "name": "pumpkin",
+      "price": 69.00,
+      "img": "https://i.pinimg.com/736x/fb/3d/2d/fb3d2db443d7f1ce3639e78a1bcc37ed.jpg",
+      "description": "Berry with a nutritious and medicinal shell.",
+      "type": "vegetable"
+    },
+    {
+      "id": 6,
+      "name": "onions",
+      "price": 40.00,
+      "img": "https://i.dailymail.co.uk/1s/2023/04/11/00/69685289-11958669-image-a-72_1681170339247.jpg",
+      "description": "The onion is one of the most appreciated vegetables.",
+      "type": "vegetable"
+    },
+    {
+      "id": 7,
+      "name": "potatoe",
+      "price": 45.00,
+      "img": "https://ricardoteransl.es/wp-content/uploads/2021/03/01_0_0147.jpg",
+      "description": "It is one of the most consumed foods by people.",
+      "type": "vegetable"
+    }
+  ]
+  
